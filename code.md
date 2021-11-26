@@ -1,5 +1,4 @@
 
-// NJarpa
 // LCD 16x2 Multiple screens auto scroll example
 
 //#include <LiquidCrystal.h>
