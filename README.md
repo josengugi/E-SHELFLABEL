@@ -30,4 +30,4 @@ DISCLAIMER
 
 This project has been issued without any warranty.
 
-Reach ngugijoseph009@gmail.co
+Reach ngugijoseph009@gmail.com
